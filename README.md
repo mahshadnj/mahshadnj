@@ -23,12 +23,14 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" 
   <img src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-plain.svg" title="C" alt="C" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" alt="Git" width="40" height="40"/>
+  <img src="https://github.com/user-attachments/assets/97e28c28-a93d-46c8-a02b-8e44450cc9a0" title="Jupyter" alt="Jupyter" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" alt="Git" width="40" height="40"/>&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/cplusplus/cplusplus-original.svg" title="C++" alt="C++" width="40" height="40"/>&nbsp;
+  
 </div>
 
 
 # 📊 My GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=mahshadnj&theme=dark&hide_border=true&include_all_commits=true&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=mahshadnj&theme=dark&hide_border=true)<br/>
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mahshadnj&theme=dark&hide_border=true)
-
+![](https://github-readme-stats.vercel.app/api?username=mahshadnj&theme=dark&hide_border=true&include_all_commits=true&count_private=false)<br/><br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=mahshadnj&theme=dark&hide_border=true)<br/><br/>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mahshadnj&theme=dark&hide_border=true&langs_count=8)
