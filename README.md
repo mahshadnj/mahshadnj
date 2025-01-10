@@ -31,6 +31,6 @@
 
 
 # 📊 My GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=mahshadnj&theme=dark&hide_border=true&include_all_commits=true&count_private=false)<br/><br/>
+![](https://github-readme-stats.vercel.app/api?username=mahshadnj&theme=dark&hide_border=true&include_all_commits=true&count_private=false&show_icons=true)<br/><br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=mahshadnj&theme=dark&hide_border=true)<br/><br/>
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mahshadnj&theme=dark&hide_border=true&langs_count=8)
