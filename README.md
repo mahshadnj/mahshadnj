@@ -9,7 +9,7 @@
 - I got my Biomedical Engineering Bachelor's degree from Amirkabir University of Technology (Tehran Polytechnic) 📚
 - I am passionate about applying my skills to programming projects at the intersection of biomechanics, robotics, and rehabilitation.
 - I welcome opportunities to connect with researchers and professionals in these fields 😉
-- I'm interested in volleyball, several artworks such as watercolor paintings and making handicrafts 🏐🎨🖼️
+- I'm interested in volleyball, several artworks such as watercolor paintings and making handicrafts 🏐🎨⚡️
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mahshad-nazari-jeirani/) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/mahshadnj) 
